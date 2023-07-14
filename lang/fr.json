@@ -1,0 +1,32 @@
+{
+  
+    "sign_in": "s'identifier",
+    "log_in": "connexion",
+    "logging_in": "Se connecter ...",
+    "no_account?": "Vous n'avez pas de compte ?",
+    "forgot_password": "Mot de passe oublié",
+
+    "add_post_dialog": "Quel type de publication souhaiteriez-vous faire ?",
+    "written_post": "message écrit",
+    "polls_post": "sondages",
+    
+    "title": "Page d'accueil",
+    "home_tab": "Maison",
+    "picture_tab": "Images",
+    "polls_tab": "sondages",
+    "offline_tab": "Hors ligne",
+    "profile_tab": "Profil",
+
+    "profile_posts": "postes",
+    "profile_followers": "suiveurs",
+    "profile_following": "suivant",
+    "edit_profile": "Editer le profil",
+
+    "post_dialog": "Qu'est-ce que tu aimerais faire?",
+    "edit_post": "modifier le message",
+    "delete_post": "supprimer le message",
+    "delete_post_confirm": "Voulez-vous vraiment supprimer ce message?",
+    "save_post": "enregistrer le message"
+
+      
+}
